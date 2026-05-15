@@ -1,7 +1,3 @@
-Name: Pavankumar Bodapati
-CSM ID: 10902024
-Programming Language Used: Python
-
 How code is structured: 
 
 - Code is structured by three seperate files: capture_handsigns.py, which basically is a 
